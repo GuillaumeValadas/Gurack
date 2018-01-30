@@ -9,12 +9,6 @@ class AuthentificationTest extends	TestCase{
 	{
 		$a = true;
 
-		$g = "lol";
-
-		$t = [
-			'jbdkfugvfdbh',
-			"zdfzsefsef"
-		];
 
 		$this->assertEquals(true,$a);
 
