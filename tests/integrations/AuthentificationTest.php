@@ -8,6 +8,14 @@ class AuthentificationTest extends	TestCase{
 	public function it_can_test()
 	{
 		$a = true;
+
+		$g = "lol";
+
+		$t = [
+			'jbdkfugvfdbh',
+			"zdfzsefsef"
+		];
+
 		$this->assertEquals(true,$a);
 
 	}
