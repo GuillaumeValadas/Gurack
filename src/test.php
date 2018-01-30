@@ -3,7 +3,6 @@
 $g = "lol";
 
 $t = [
-	'jbdkfugvfdbh',
-	"zdfzsefsef"
+    'jbdkfugvfdbh',
+    "zdfzsefsef"
 ];
-
