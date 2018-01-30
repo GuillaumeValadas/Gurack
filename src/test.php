@@ -1,24 +1,18 @@
 <?php
 
-$g = "lol";
+$g = 'lol';
 
 $t = [
     'jbdkfugvfdbh',
-    "zdfzsefsef"
+    'zdfzsefsef',
 ];
 
-function hello(){
-
-	return "hello";
-
-
+function hello()
+{
+    return 'hello';
 }
-
 
 function hi()
 {
-
-	return "hi";
-
-
+    return 'hi';
 }
